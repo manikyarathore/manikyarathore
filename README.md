@@ -14,6 +14,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manikyarathore&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Autograding Tests](https://github.com/SummerOfBitcoin/2026-developer-challenge-2-coin-smith-manikyarathore/actions/workflows/classroom.yml/badge.svg)](https://github.com/SummerOfBitcoin/2026-developer-challenge-2-coin-smith-manikyarathore/actions/workflows/classroom.yml)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
