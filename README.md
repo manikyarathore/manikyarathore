@@ -1,15 +1,29 @@
-<h1 align="center">Hi, I'm Manikya Rathore 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manikya%20Rathore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSBS%20%C2%B7%20MPSTME%2C%20NMIMS%20Mumbai%20%C2%B7%20CGPA%209.44&descSize=18&descAlignY=58">
+
 <p align="center">
-  B.Tech CSBS @ <b>MPSTME, NMIMS Mumbai</b> · CGPA <b>9.44</b><br>
-  I build systems end to end and prove they work with numbers.<br>
-  Compilers · UAV security · RL robotics · constraint solving · open source
+  <a href="https://github.com/manikyarathore">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=I+build+systems+end+to+end+and+prove+they+work+with+numbers;Compilers+%C2%B7+UAV+security+%C2%B7+RL+robotics;Constraint+solving+%C2%B7+Bitcoin+tooling+%C2%B7+open+source" alt="Typing intro">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/manikyarathore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/Manikya_Rathore"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:manikyarathore79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Research-2_papers-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LeetCode-549%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Merged_PRs-Internet_Archive-0B7285?style=for-the-badge">
 </p>
+
+## 👋 About
+
+- 🎓 B.Tech Computer Science & Business Systems, **MPSTME NMIMS Mumbai**, CGPA **9.44**
+- 🔬 First author of a **UAV intrusion-detection paper** (under review) and a **NISAR radar** agriculture manuscript
+- 🛠️ Wrote a **Python-to-Go compiler from scratch** (~12,500 lines of Go, 6 phases, fuzz-tested against CPython)
+- 🚁 Built an **RL-trained flood-relief drone** in MuJoCo that cut delivery miss distance by 89%
+- 📅 Built a **timetable generator** the CSBS HoD picked for a trial run: 1,023 sessions, 0 clashes
+- 🌍 Merged PRs into **Heritrix3 (Internet Archive)** and contributed to OpenStreetMap, Django, AnkiDroid and more
+- 💬 Ask me about: compilers, constraint solving, simulation, Bitcoin protocol, UAV security
 
 ---
 
@@ -29,6 +43,13 @@
 | **NISAR Agri Classification** <br>`Python · Scikit-learn · HDF5` | Random Forest on NISAR L-band GCOV radar data to separate agricultural land | Internal accuracy 0.996 vs **84.3%** on an independent June scene and 44.6% on August, with a diagnosis of why scores did not transfer |
 | [**MDRIIA — RPA Group Project**](https://github.com/manikyarathore/NMIMS-MPSTME-MDRIIA-2026/tree/main/Group_08_Manikya_Shourya_Keswani_Vora) <br>`Power Automate Desktop` | Group 08 robotic process automation work for Modern Day Robotics & Its Industrial Applications | Team project built with Shourya, Keswani and Vora |
 | **Chain Lens & Coin Smith** <br>`C++ · JavaScript` | Bitcoin transaction analyzer and PSBT (BIP174) builder | Passes **5,026/5,026** official validation tests; PSBT builder passes 35/35 fixtures |
+
+
+<p align="center">
+  <a href="https://github.com/manikyarathore/pygoc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikyarathore&repo=pygoc&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/manikyarathore/Ai-Intrusion-Detection-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikyarathore&repo=Ai-Intrusion-Detection-System&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/manikyarathore/Skyhydro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikyarathore&repo=Skyhydro&theme=tokyonight&hide_border=true"></a>
+</p>
 
 ## 🌍 Open Source
 
@@ -90,8 +111,17 @@ Merged **PR #693** and **PR #691** in [Heritrix3](https://github.com/internetarc
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manikyarathore&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikyarathore&theme=dark&hide_border=true&layout=compact">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manikyarathore&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikyarathore&theme=tokyonight&hide_border=true&layout=compact">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manikyarathore&theme=tokyonight&hide_border=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikyarathore&theme=tokyo-night&hide_border=true&area=true" width="95%">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manikyarathore&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
 </p>
 
 ## 🧮 Problem Solving
@@ -101,3 +131,5 @@ Merged **PR #693** and **PR #691** in [Heritrix3](https://github.com/internetarc
 ## 🎓 Certifications
 
 AI Receptive Software Development (Clemson, Coursera) · Machine Learning Specialization (Stanford & DeepLearning.AI) · Nexus (Blockchain, DSA)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
