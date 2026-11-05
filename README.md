@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29&height=260&section=header&text=Manikya%20Rathore&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=fadeIn&stroke=ffffff&strokeWidth=1&desc=Compilers%20%E2%80%A2%20UAV%20Security%20%E2%80%A2%20RL%20Robotics%20%E2%80%A2%20Open%20Source&descSize=20&descAlign=50&descAlignY=58">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f12711,100:f5af19&height=260&section=header&text=Manikya%20Rathore&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=scaleIn&desc=Compilers%20%E2%80%A2%20UAV%20Security%20%E2%80%A2%20RL%20Robotics%20%E2%80%A2%20Open%20Source&descSize=20&descAlign=50&descAlignY=58">
 
 <a href="https://github.com/manikyarathore">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi%2C+I'm+Manikya+%F0%9F%91%8B+B.Tech+CSBS+%C2%B7+CGPA+9.44;I+build+systems+end+to+end+and+prove+they+work+with+numbers;Wrote+a+Python-to-Go+compiler+from+scratch+%E2%9A%99%EF%B8%8F;Trained+an+RL+flood-relief+drone+in+MuJoCo+%F0%9F%9A%81;First+author%3A+UAV+intrusion+detection+research+%F0%9F%94%AC;Merged+PRs+into+Internet+Archive%27s+Heritrix3+%F0%9F%8C%8D" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Hi%2C+I'm+Manikya+%C2%B7+CGPA+9.44;I+build+systems+end+to+end;Wrote+a+Python-to-Go+compiler;Trained+an+RL+flood-relief+drone;First+author%3A+UAV+intrusion+research;Merged+PRs+into+Internet+Archive" alt="Typing intro">
 </a>
 
 </div>
@@ -27,7 +27,7 @@
 - 🌍 Merged PRs into **Heritrix3 (Internet Archive)** and contributed to OpenStreetMap, Django, AnkiDroid and more
 - 💬 Ask me about: compilers, constraint solving, simulation, Bitcoin protocol, UAV security
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,29&height=3&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f12711,100:f5af19&height=3&section=header">
 
 ## 🔬 Research
 
@@ -131,6 +131,6 @@ AI Receptive Software Development (Clemson, Coursera) · Machine Learning Specia
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29&height=180&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=twinkling">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f12711,100:f5af19&height=180&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=twinkling">
 
 </div>
