@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f12711,100:f5af19&height=260&section=header&text=Manikya%20Rathore&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=scaleIn&desc=Compilers%20%E2%80%A2%20UAV%20Security%20%E2%80%A2%20RL%20Robotics%20%E2%80%A2%20Open%20Source&descSize=20&descAlign=50&descAlignY=58">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=260&section=header&text=Manikya%20Rathore&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=scaleIn&desc=Compilers%20%E2%80%A2%20UAV%20Security%20%E2%80%A2%20RL%20Robotics%20%E2%80%A2%20Open%20Source&descSize=20&descAlign=50&descAlignY=58">
 
 <a href="https://github.com/manikyarathore">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Hi%2C+I'm+Manikya+%C2%B7+CGPA+9.44;I+build+systems+end+to+end;Wrote+a+Python-to-Go+compiler;Trained+an+RL+flood-relief+drone;First+author%3A+UAV+intrusion+research;Merged+PRs+into+Internet+Archive" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Hi%2C+I'm+Manikya+%C2%B7+CGPA+9.44;I+build+systems+end+to+end;Wrote+a+Python+to+Go+compiler;Trained+an+RL+flood+relief+drone;First+author%3A+UAV+intrusion+research;Merged+PRs+into+Internet+Archive" alt="Typing intro">
 </a>
 
 </div>
@@ -20,9 +20,9 @@
 ## 👋 About
 
 - 🎓 B.Tech Computer Science & Business Systems, **MPSTME NMIMS Mumbai**, CGPA **9.44**
-- 🔬 First author of a **UAV intrusion-detection paper** (under review) and a **NISAR radar** agriculture manuscript
-- 🛠️ Wrote a **Python-to-Go compiler from scratch** (~12,500 lines of Go, 6 phases, fuzz-tested against CPython)
-- 🚁 Built an **RL-trained flood-relief drone** in MuJoCo that cut delivery miss distance by 89%
+- 🔬 First author of a **UAV intrusion detection paper** (under review) and a **NISAR radar** agriculture manuscript
+- 🛠️ Wrote a **Python to Go compiler from scratch** (about 12,500 lines of Go, 6 phases, fuzz tested against CPython)
+- 🚁 Built an **RL trained flood relief drone** in MuJoCo that cut delivery miss distance by 89%
 - 📅 Built a **timetable generator** the CSBS HoD picked for a trial run: 1,023 sessions, 0 clashes
 - 🌍 Merged PRs into **Heritrix3 (Internet Archive)** and contributed to OpenStreetMap, Django, AnkiDroid and more
 - 💬 Ask me about: compilers, constraint solving, simulation, Bitcoin protocol, UAV security
@@ -31,19 +31,18 @@
 
 ## 🔬 Research
 
-- **System-Level Evaluation of Lightweight Intrusion Detection and Response for UAV Formations** — under review, 2026 (first author, with S. Naruka, A. Surve, I. Ranjan, S. Puthran)
-- **Agricultural Land Classification from NISAR L-Band GCOV Backscatter with Independent Scene Validation** — manuscript, 2026 (with D. Parekh)
+- **System-Level Evaluation of Lightweight Intrusion Detection and Response for UAV Formations**<br>Under review, 2026 · First author, with S. Naruka, A. Surve, I. Ranjan and S. Puthran
+- **Agricultural Land Classification from NISAR L-Band GCOV Backscatter with Independent Scene Validation**<br>Manuscript, 2026 · With D. Parekh
 
 ## 🚀 Featured Projects
 
 | Project | What it is | Highlights |
 |---|---|---|
-| [**UAV Intrusion Detection & Response**](https://github.com/manikyarathore/Ai-Intrusion-Detection-System) <br>`Python · MuJoCo · JAX · C` | Physics-based 2v2 quadrotor testbed with 4 cyber-physical attacks (GPS spoof, IMU, actuator, jamming) | 816-byte int8 detector, <0.5 µs/inference in C; ejected **100% (48/48)** of drones about to crash; exact replay, 0 mismatches over 22,288 ticks |
-| [**PyGoC**](https://github.com/manikyarathore/pygoc) <br>`Go · WebAssembly` | Compiler from a typed Python subset to Go, written from scratch with the standard library only. Every phase is visible in a browser demo | ~12,500 lines, 43 files, 6 phases, 5 optimization passes; matched CPython on **45/46** test and **200/200** fuzzed programs |
-| [**SkyHydro**](https://github.com/manikyarathore/Skyhydro) <br>`Python · MuJoCo · Stable-Baselines3` | Flood-relief winch drone that delivers medicine to rooftops in 0–15 m/s wind | Miss distance **2.82 → 0.31 m** (89%); unsafe drops 34% → 0.8%; PPO pilot completed 30/30 missions, 2× faster than the scripted expert |
-| [**CTTGS**](https://github.com/manikyarathore/Time-Table-Genrator-For-MPSTME) <br>`FastAPI · OR-Tools CP-SAT · React · TypeScript · Docker` | College timetable generator, selected by the CSBS HoD for a trial run | 1,023 sessions, 43 divisions, **0 clashes** under 20 hard rules; first valid week in 4–9 s |
-| **NISAR Agri Classification** <br>`Python · Scikit-learn · HDF5` | Random Forest on NISAR L-band GCOV radar data to separate agricultural land | Internal accuracy 0.996 vs **84.3%** on an independent June scene and 44.6% on August, with a diagnosis of why scores did not transfer |
-| [**MDRIIA — RPA Group Project**](https://github.com/manikyarathore/NMIMS-MPSTME-MDRIIA-2026/tree/main/Group_08_Manikya_Shourya_Keswani_Vora) <br>`Power Automate Desktop` | Group 08 robotic process automation work for Modern Day Robotics & Its Industrial Applications | Team project built with Shourya, Keswani and Vora |
+| [**UAV Intrusion Detection & Response**](https://github.com/manikyarathore/Ai-Intrusion-Detection-System) <br>`Python · MuJoCo · JAX · C` | Physics based 2v2 quadrotor testbed with 4 cyber physical attacks (GPS spoof, IMU, actuator, jamming) | 816 byte int8 detector, <0.5 µs/inference in C; ejected **100% (48/48)** of drones about to crash; exact replay, 0 mismatches over 22,288 ticks |
+| [**PyGoC**](https://github.com/manikyarathore/pygoc) <br>`Go · WebAssembly` | Compiler from a typed Python subset to Go, written from scratch with the standard library only. Every phase is visible in a browser demo | About 12,500 lines, 43 files, 6 phases, 5 optimization passes; matched CPython on **45/46** test and **200/200** fuzzed programs |
+| [**SkyHydro**](https://github.com/manikyarathore/Skyhydro) <br>`Python · MuJoCo · Stable-Baselines3`<br>[Course repo](https://github.com/manikyarathore/NMIMS-MPSTME-MDRIIA-2026/tree/main/Group_08_Manikya_Shourya_Keswani_Vora) | Flood relief winch drone that delivers medicine to rooftops in 0 to 15 m/s wind | Miss distance **2.82 → 0.31 m** (89%); unsafe drops 34% → 0.8%; PPO pilot completed 30/30 missions, 2× faster than the scripted expert |
+| [**CTTGS**](https://github.com/manikyarathore/Time-Table-Genrator-For-MPSTME) <br>`FastAPI · OR-Tools CP-SAT · React · TypeScript · Docker` | College timetable generator, selected by the CSBS HoD for a trial run | 1,023 sessions, 43 divisions, **0 clashes** under 20 hard rules; first valid week in 4 to 9 s |
+| **NISAR Agri Classification** <br>`Python · Scikit-learn · HDF5` | Random Forest on NISAR L band GCOV radar data to separate agricultural land | Internal accuracy 0.996 vs **84.3%** on an independent June scene and 44.6% on August, with a diagnosis of why scores did not transfer |
 | **Chain Lens & Coin Smith** <br>`C++ · JavaScript` | Bitcoin transaction analyzer and PSBT (BIP174) builder | Passes **5,026/5,026** official validation tests; PSBT builder passes 35/35 fixtures |
 
 
@@ -112,13 +111,15 @@ Merged **PR #693** and **PR #691** in [Heritrix3](https://github.com/internetarc
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%">
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%">
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%">
 </p>
 
 ## 🧮 Problem Solving
@@ -131,6 +132,6 @@ AI Receptive Software Development (Clemson, Coursera) · Machine Learning Specia
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f12711,100:f5af19&height=180&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=twinkling">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=180&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=twinkling">
 
 </div>
