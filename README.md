@@ -1,10 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manikya%20Rathore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSBS%20%C2%B7%20MPSTME%2C%20NMIMS%20Mumbai%20%C2%B7%20CGPA%209.44&descSize=18&descAlignY=58">
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/manikyarathore">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=I+build+systems+end+to+end+and+prove+they+work+with+numbers;Compilers+%C2%B7+UAV+security+%C2%B7+RL+robotics;Constraint+solving+%C2%B7+Bitcoin+tooling+%C2%B7+open+source" alt="Typing intro">
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29&height=260&section=header&text=Manikya%20Rathore&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=fadeIn&stroke=ffffff&strokeWidth=1&desc=Compilers%20%E2%80%A2%20UAV%20Security%20%E2%80%A2%20RL%20Robotics%20%E2%80%A2%20Open%20Source&descSize=20&descAlign=50&descAlignY=58">
+
+<a href="https://github.com/manikyarathore">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi%2C+I'm+Manikya+%F0%9F%91%8B+B.Tech+CSBS+%C2%B7+CGPA+9.44;I+build+systems+end+to+end+and+prove+they+work+with+numbers;Wrote+a+Python-to-Go+compiler+from+scratch+%E2%9A%99%EF%B8%8F;Trained+an+RL+flood-relief+drone+in+MuJoCo+%F0%9F%9A%81;First+author%3A+UAV+intrusion+detection+research+%F0%9F%94%AC;Merged+PRs+into+Internet+Archive%27s+Heritrix3+%F0%9F%8C%8D" alt="Typing intro">
+</a>
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/manikyarathore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -25,7 +27,7 @@
 - 🌍 Merged PRs into **Heritrix3 (Internet Archive)** and contributed to OpenStreetMap, Django, AnkiDroid and more
 - 💬 Ask me about: compilers, constraint solving, simulation, Bitcoin protocol, UAV security
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,29&height=3&section=header">
 
 ## 🔬 Research
 
@@ -44,12 +46,6 @@
 | [**MDRIIA — RPA Group Project**](https://github.com/manikyarathore/NMIMS-MPSTME-MDRIIA-2026/tree/main/Group_08_Manikya_Shourya_Keswani_Vora) <br>`Power Automate Desktop` | Group 08 robotic process automation work for Modern Day Robotics & Its Industrial Applications | Team project built with Shourya, Keswani and Vora |
 | **Chain Lens & Coin Smith** <br>`C++ · JavaScript` | Bitcoin transaction analyzer and PSBT (BIP174) builder | Passes **5,026/5,026** official validation tests; PSBT builder passes 35/35 fixtures |
 
-
-<p align="center">
-  <a href="https://github.com/manikyarathore/pygoc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikyarathore&repo=pygoc&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/manikyarathore/Ai-Intrusion-Detection-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikyarathore&repo=Ai-Intrusion-Detection-System&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/manikyarathore/Skyhydro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manikyarathore&repo=Skyhydro&theme=tokyonight&hide_border=true"></a>
-</p>
 
 ## 🌍 Open Source
 
@@ -111,17 +107,18 @@ Merged **PR #693** and **PR #691** in [Heritrix3](https://github.com/internetarc
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manikyarathore&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikyarathore&theme=tokyonight&hide_border=true&layout=compact">
+  <img src="https://img.shields.io/github/followers/manikyarathore?style=for-the-badge&logo=github&color=0B7285">
+  <img src="https://img.shields.io/github/stars/manikyarathore?style=for-the-badge&logo=github&color=0B7285&label=stars">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manikyarathore&theme=tokyonight&hide_border=true">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikyarathore&theme=tokyo-night&hide_border=true&area=true" width="95%">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikyarathore&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%">
 </p>
 
 ## 🧮 Problem Solving
@@ -132,4 +129,8 @@ Merged **PR #693** and **PR #691** in [Heritrix3](https://github.com/internetarc
 
 AI Receptive Software Development (Clemson, Coursera) · Machine Learning Specialization (Stanford & DeepLearning.AI) · Nexus (Blockchain, DSA)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29&height=180&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=twinkling">
+
+</div>
