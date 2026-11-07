@@ -17,6 +17,9 @@ jobs:
     name: generate-github-profile-summary-cards
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -24,3 +27,14 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
+          THEME: tokyonight
+          AUTO_PUSH: false
+
+      - name: Commit cards as Manikya
+        run: |
+          git reset --soft origin/main
+          git config user.name "Manikya Rathore"
+          git config user.email "manikyarathore79@gmail.com"
+          git add profile-summary-card-output
+          git commit -m "Update profile stats $(TZ=Asia/Kolkata date +%F)" || echo "No change"
+          git push origin HEAD:main
