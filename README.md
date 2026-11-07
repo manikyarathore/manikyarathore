@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=260&section=header&text=Manikya%20Rathore&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=scaleIn&desc=Compilers%20%E2%80%A2%20UAV%20Security%20%E2%80%A2%20RL%20Robotics%20%E2%80%A2%20Open%20Source&descSize=18&descAlign=50&descAlignY=58">
+<img width="100%" src="./assets/header.svg" alt="Manikya Rathore">
 
 <a href="https://github.com/manikyarathore">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=HI%2C+I'M+MANIKYA+%C2%B7+CGPA+9.44;I+BUILD+SYSTEMS+END+TO+END;WROTE+A+PYTHON+TO+GO+COMPILER;TRAINED+AN+RL+FLOOD+RELIEF+DRONE;FIRST+AUTHOR%3A+UAV+INTRUSION+RESEARCH;MERGED+PRS+INTO+INTERNET+ARCHIVE" alt="Typing intro">
@@ -138,6 +138,6 @@ AI Receptive Software Development (Clemson, Coursera) · Machine Learning Specia
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=180&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&fontAlignY=65&animation=twinkling">
+<img width="100%" src="./assets/footer.svg" alt="Thanks for visiting">
 
 </div>
